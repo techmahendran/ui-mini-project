@@ -1,7 +1,6 @@
 document.getElementById('output').style.visibility = 'hidden';
 
 document.getElementById('box1').addEventListener('input', (e) =>{
-    // console.log(123);
 
 document.getElementById('output').style.visibility = 'visible';
 

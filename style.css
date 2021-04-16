@@ -34,7 +34,7 @@ body {
   padding: 0.5rem;
   margin-bottom: 1rem;
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 520px) {
   .head {
     padding-left: 4rem;
   }
