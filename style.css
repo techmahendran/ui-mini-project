@@ -39,13 +39,11 @@ body {
     margin-top: 1.5rem;
   }
   .form-group input {
-    margin-left: 5rem;
-    margin-right: 1rem;
+    margin-left: 4rem;
     width: 18rem;
   }
   .box {
-    margin-right: 1rem;
-    margin-left: 5rem;
+    margin-left: 4rem;
   }
   .card-red {
     width: 17rem;
